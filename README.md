@@ -5,4 +5,6 @@ This uses Johns Hopkins COVID-19 data for the USA cumulative confirmed case data
 
 There are two other files with sample graphs, to help get a feel what these distributions look like, and also to appreciate how this disease is progressing at different phases and rates in various countries. These have been put on a per capita basis whenever possible, which is more meaningful than simply absolute numbers. One is global, the other contains Texas and other points of interest. Depending on your browser or device, you may need to go a tab that says "View Code" or "Jump to File" to see these files.
 
+Finally one more file that describes in more detail what the Ro number is.
+
 Dave Leet, Alpine, TX
