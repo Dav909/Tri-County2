@@ -7,4 +7,4 @@ There are two other files with sample graphs, to help get a feel what these dist
 
 Finally one more file that describes in more detail what the Ro number is.
 
-Dave Leet, Alpine, TX
+Dave Leet, Alpine, TX 
