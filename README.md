@@ -3,7 +3,7 @@
 
 This uses Johns Hopkins COVID-19 data for the USA and World cumulative confirmed case and death data, to date. Most browsers will show a link called "View Files" or "View code" that leads to the files. Since the epidemic apparently is far from over, I will continue on with this.
 
-Your browser will show an image of each file, but any links in them will not operate. If you want to access a link, just download the pdf file (Acrobat) for each file, and open the link from within the pdf. Lately, the image has been incomplete, but just hit download to see the full document. Not sure why that is happening.
+Your browser will show an image of each file, but any links in them will not operate. If you want to access a link, just download the pdf file (Acrobat) for each file, and open the link from within the pdf. Lately, the image has been incomplete, but just hit download to see the full document. Not sure why that is happening. This happens with Firefox, works fine with Chrome.
 
 Sometimes zooming in on an image in a browser isn't so good, but most browsers have "View as image" button that will take care of that--it's a right click on a mouse.  
 
