@@ -9,7 +9,7 @@ Sometimes zooming in on an image in a browser isn't so good, but most browsers h
 
 Data is also scaled to the population of 18,000 for Brewster, Jeff Davis, and Presidio counties (Tri-County) in West Texas for comparative purposes. The idea is to use existing data to estimate what the effect will be here comparatively. All the data is updated with more recent data every few days. 
 
-There are four graph files and three commentary files that supplement each other. "Local" pertains to Tri-County and USA. Another file was added later, as supplementary material for a Letter to the Editor discussing what "exponential" really means. This is called "Tri-County example." 
+There are four graph files and three commentary files that supplement each other. "Local" pertains to Tri-County and USA. Curve fits are particularly useful now, since many locales do not report numbers daily anymore, so the fit shows the true shape better. Another file was added later, as supplementary material for a Letter to the Editor discussing what "exponential" really means. This is called "Tri-County example." 
 
 More recently, another file was added commenting on an example of obvious media bias on this subject.
 
