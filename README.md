@@ -11,6 +11,4 @@ Data is also scaled to the population of 18,000 for Brewster, Jeff Davis, and Pr
 
 There are four graph files and three commentary files that supplement each other. "Local" pertains to Tri-County and USA. Curve fits are particularly useful now, since many locales do not report numbers daily anymore, so the fit shows the true shape better. Another file was added later, as supplementary material for a Letter to the Editor discussing what "exponential" really means. This is called "Tri-County example." 
 
-More recently, another file was added commenting on an example of obvious media bias on this subject.
-
 Dave Leet, Alpine, TX 
