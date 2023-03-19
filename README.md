@@ -1,5 +1,6 @@
 # Tri-County
  Tri-County
+Data collection by Johns Hopkins ceased on 10 March 2023.
 
 This uses Johns Hopkins COVID-19 data for the USA and World cumulative confirmed case and death data, to date. Most browsers will show a link called "View Files" or "View code" that leads to the files. Since the case counts are becoming less relevant, they likely will be discontinued after this current wave is over. Items relevant to excess deaths will be continued. Curve fits have been discontinued, replaced by moving averages for daily case counts.
 
